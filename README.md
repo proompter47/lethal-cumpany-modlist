@@ -1,4 +1,4 @@
-# lethal-cumpany-modlist
+# Modlist
 
 [Bepin Ex](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 
